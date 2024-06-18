@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.22)
+project(main)
+function(print VAR_NAME)
+    message("${VAR_NAME} = ${${VAR_NAME}}")
+endfunction()
+set(VAR "Cats and Dogs")
+print(VAR)

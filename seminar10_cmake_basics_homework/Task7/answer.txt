@@ -1,0 +1,54 @@
+Number of arguments = 0
+Arguments:
+----------------------------
+Number of arguments = 1
+Arguments:
+Cat
+----------------------------
+Number of arguments = 3
+Arguments:
+Cat
+Mouse
+Dog
+----------------------------
+Number of arguments = 1
+Arguments:
+Cat Mouse Dog
+----------------------------
+Number of arguments = 3
+Arguments:
+Cat
+Mouse
+Dog
+----------------------------
+Number of arguments = 1
+Arguments:
+Cat
+Mouse
+Dog
+----------------------------
+Number of arguments = 1
+Arguments:
+X
+----------------------------
+Number of arguments = 3
+Arguments:
+Tiger
+Lion
+Elephant
+----------------------------
+Number of arguments = 1
+Arguments:
+Tiger
+Lion
+Elephant
+----------------------------
+Number of arguments = 2
+Arguments:
+Cat
+Mouse
+Dog
+Tiger
+Lion
+Elephant
+----------------------------
